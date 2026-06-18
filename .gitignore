@@ -1,0 +1,8 @@
+# Runtime / personal files — never commit these
+token.txt
+config.json
+widget-state.json
+
+# Anything that could contain credentials
+.credentials.json
+*.secret
