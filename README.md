@@ -5,8 +5,9 @@ A small, always-on-top desktop widget for Windows that shows how much of your
 anywhere on screen. Built with PowerShell + WPF, no install of Node/Python
 required.
 
-<!-- Add a screenshot of the widget here once you have one:
-     ![screenshot](docs/screenshot.png) -->
+<p align="center">
+  <img src="docs/screenshot.png" alt="Claude Usage Widget showing live 5-hour and weekly limit usage" width="280">
+</p>
 
 > **Not affiliated with Anthropic.** This is an unofficial community tool. It
 > reads usage data from undocumented Anthropic endpoints (the same ones other
